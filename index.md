@@ -1,11 +1,12 @@
 ---
 layout: index
-title: Brandon Amos
+title: Chen Chen
 ---
 
 ---
-
-{% include cv.md %}
+- [CV (PDF)](/data/cv.pdf)
+- [CV (Markdown)](/_includes/cv.md)
+<!-- {% include cv.md %} -->
 
 ---
 
