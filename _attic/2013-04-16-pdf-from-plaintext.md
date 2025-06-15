@@ -29,7 +29,7 @@ from vim's wikia was also helpful for adding the page numbers.
 # createpdf.sh
 # Creates a pdf document from a plaintext file.
 #
-# Brandon Amos <http://bamos.github.io>
+# Brandon Amos <http://chestercc1997.github.io>
 # 2013.04.16
 
 function die { echo $1; exit 42; }

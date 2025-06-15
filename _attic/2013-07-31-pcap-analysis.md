@@ -59,7 +59,7 @@ This is also located in
 # analyze-pcap.sh
 # Use tcpflow and foremost to analyze TCP streams in a pcap file.
 #
-# Brandon Amos <http://bamos.github.io>
+# Brandon Amos <http://chestercc1997.github.io>
 # 2013.07.30
 
 function die { echo $*; exit 42; }

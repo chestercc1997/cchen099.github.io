@@ -11,7 +11,7 @@ and my current system is openly available on GitHub at
 This project stores all of my content in YAML and uses
 Python with [Jinja2](http://jinja.pocoo.org/) templates to output
 LaTeX and Markdown,
-which produce [these documents on my website](http://bamos.github.io/cv/).
+which produce [these documents on my website](http://chestercc1997.github.io/cv/).
 I just switched to using a new template and
 this post shortly presents my experiences with three templates.
 

@@ -15,7 +15,7 @@ Many of the 97 warnings were 8 lines for a denial via `robots.txt`:
 <pre>
 URL        `https://github.com/bamos/latex-templates/tree/gh-pages//hw'
 Name       `hw'
-Parent URL http://bamos.github.io/latex-templates/, line 50, col 5
+Parent URL http://chestercc1997.github.io/latex-templates/, line 50, col 5
 Real URL   https://github.com/bamos/latex-templates/tree/gh-pages/hw
 Check time 0.600 seconds
 Warning    [http-robots-denied] Access denied by robots.txt,
@@ -31,14 +31,14 @@ errors were encountered, which is what [this][src] Python 3.3 script in
 Upon error, an email of the following format is sent.
 
 <pre>
-Error checking links for http://bamos.github.io
+Error checking links for http://chestercc1997.github.io
 
 URL        `https://github.com/bamos/simple-shell-scripts/blob/master/re-signer.sh'
-Parent URL http://bamos.github.io/2013/03/10/resigning-apk/, line 64, col 570
+Parent URL http://chestercc1997.github.io/2013/03/10/resigning-apk/, line 64, col 570
 Result     Error: 404 Not Found
 
 URL        `http://www.troido.de/en/downloadslsmallgsoftware-a-driverslsmallg'
-Parent URL http://bamos.github.io/2013/03/10/resigning-apk/, line 64, col 285
+Parent URL http://chestercc1997.github.io/2013/03/10/resigning-apk/, line 64, col 285
 Result     Error: 404 Not Found
 </pre>
 

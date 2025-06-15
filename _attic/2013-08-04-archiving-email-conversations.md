@@ -16,7 +16,7 @@ Unfortunately, I only have this working on my Linux machine.
 You also might have to help me out to get it to work
 for your emails due to the heterogeneity of emails.
 
-See [here](http://bamos.github.io/data/2013-08-05/convos-example.pdf)
+See [here](http://chestercc1997.github.io/data/2013-08-05/convos-example.pdf)
 for a short example produced by
 [this](https://github.com/bamos/mbox-convos/blob/master/example.mbox)
 mbox file.
@@ -26,7 +26,7 @@ At a high level, `mbox-convos.py` does the following.
 1. Reads an `mbox` file and matches messages to or from a
    list of emails.
 2. Extracts the messages, including
-   [PGP messages](http://bamos.github.io/2013/08/04/python-message-pgp/),
+   [PGP messages](http://chestercc1997.github.io/2013/08/04/python-message-pgp/),
    and creates a LaTeX document.
 3. Produces a PDF with `pdflatex`.
 

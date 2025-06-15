@@ -5,7 +5,7 @@ tags: [Python]
 ---
 
 A few months ago, I wrote a
-[blog post](http://bamos.github.io/2013/06/26/expression-parsing-shunting-yard/)
+[blog post](http://chestercc1997.github.io/2013/06/26/expression-parsing-shunting-yard/)
 on expression parsing with Dijkstra's shunting yard algorithm in C++
 to evaluate a string at runtime.
 I've since also needed to use Python to evaluate an expression
@@ -61,7 +61,7 @@ if __name__ == '__main__':
 # A module to evaluate a mathematical expression using Python's AST.
 #
 # Original by: J. Sebastian at `http://stackoverflow.com/questions/2371436`
-# Modifications by: Brandon Amos <http://bamos.github.io>
+# Modifications by: Brandon Amos <http://chestercc1997.github.io>
 
 import ast
 import operator as op

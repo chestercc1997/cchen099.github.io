@@ -22,10 +22,10 @@ dynamically selected value from the dropdown box.
 When the page loads, use `jstz` to get the timezone, and fallback
 to `America/New_York` on error.
 
-<script src="http://gist-it.appspot.com/https://github.com/bamos/bamos.github.io/blob/master/meet.html?footer=minimal"></script>
+<script src="http://gist-it.appspot.com/https://github.com/bamos/chestercc1997.github.io/blob/master/meet.html?footer=minimal"></script>
 
 [google-calendar]: http://google.com/calendar
 [embed]: https://support.google.com/calendar/answer/41207?hl=en
 [timezones]: /data/2014-01-26/timezones.txt
 [jstz]: http://pellepim.bitbucket.org/jstz/
-[demo]: http://bamos.github.io/meet
+[demo]: http://chestercc1997.github.io/meet

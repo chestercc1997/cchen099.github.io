@@ -65,7 +65,7 @@ I maintain a custom aspell dictionary openly on GitHub in
 
 # Example output and performance
 I maintain my blog posts with Jekyll and Markdown on GitHub
-in [_posts][_posts] at [bamos/bamos.github.io][blog].
+in [_posts][_posts] at [bamos/chestercc1997.github.io][blog].
 The following shows the beginning and the end of
 `rank-writing.py` on my posts.
 The top posts have a large number of false positives from
@@ -139,5 +139,5 @@ $ rank-writing.py --aspell --write-good *.md
   └── write-good: 0
 {% endhighlight %}
 
-[blog]: https://github.com/bamos/bamos.github.io
-[_posts]: https://github.com/bamos/bamos.github.io/tree/master/_posts
+[blog]: https://github.com/bamos/chestercc1997.github.io
+[_posts]: https://github.com/bamos/chestercc1997.github.io/tree/master/_posts
