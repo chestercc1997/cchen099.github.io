@@ -112,7 +112,7 @@ If you are interested in my research, feel free to reach out for a discussion or
 <td>
     <em><a href='https://arxiv.org/abs/2504.05577' target='_blank'>BoolE: Exact Symbolic Reasoning via Boolean Equality Saturation</a> </em> <br>
     Jiaqi&nbsp;Yin, Zhan&nbsp;Song, Chen&nbsp;Chen, Qihao&nbsp;Hu, and <a href='https://ycunxi.github.io/cunxiyu/' target='_blank'>Cunxi&nbsp;Yu</a><br>
-    DAC 2025  <br>
+    DAC 2025 (Best Paper Nomination) <br>
     
 </td>
 </tr>
