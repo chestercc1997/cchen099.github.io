@@ -1,6 +1,6 @@
 <p align='justify'>
 I am a third-year Ph.D. candidate at Hong Kong University of Science and Technology (Guangzhou) (HKUST(GZ)), advised by <a href="https://hongcezh.people.ust.hk" target="_blank">Prof. Hongce Zhang</a>. I am also a visiting scholar at the University of Maryland, College Park, where I work closely with <a href="https://ycunxi.github.io/cunxiyu/" target="_blank">Prof. Cunxi Yu</a>.
-</p>
+</p><br>
 <h3>Research Interests:</h3>
 <ul>
   <li>Logic Synthesis and Technology Mapping
@@ -9,6 +9,9 @@ I am a third-year Ph.D. candidate at Hong Kong University of Science and Technol
   <li>Formal Verification Using Algebraic Methods </li>
   <li>Graph Learning in Electronic Design Automation </li>
 </ul>
+<p align='justify'>
+If you are interested in my research, feel free to reach out for a discussion or potential collaboration!
+</p>
 
 
 ## <i class="fa fa-chevron-right"></i> Education
@@ -98,7 +101,8 @@ I am a third-year Ph.D. candidate at Hong Kong University of Science and Technol
     Jiaqi&nbsp;Yin<a href='https://yin-jiaqi.github.io' target='_blank'>, <a href='https://zhansong01.github.io' target='_blank'>Zhan&nbsp;Song, Chen&nbsp;Chen, <a href='https://www.csl.cornell.edu/~yc2632/' target='_blank'>Yaohui&nbsp;Cai, <a href='https://www.csl.cornell.edu/~zhiruz/' target='_blank'>Zhang&nbsp;Zhiru, and <a href='https://ycunxi.github.io/cunxiyu/' target='_blank'>Cunxi&nbsp;Yu</a><br>
     ICCAD 2025  <br>
     
-
+</td>
+</tr>
 
 
 <tr id="tr-IWLS25-REVEAL" >
