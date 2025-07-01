@@ -95,7 +95,7 @@ I am a third-year Ph.D. candidate at Hong Kong University of Science and Technol
 </td>
 <td>
     <em>e-boost: Boosted E-Graph Extraction with Adaptive Heuristics and Exact Solving</em> <br>
-    <a href='https://yin-jiaqi.github.io' target='_blank'>Jiaqi&nbsp;Yin, <a href='https://zhansong01.github.io' target='_blank'>Zhan&nbsp;Song, Chen&nbsp;Chen, <a href='https://www.csl.cornell.edu/~yc2632/' target='_blank'>Yaohui&nbsp;Cai, <a href='https://www.csl.cornell.edu/~zhiruz/' target='_blank'>Zhang&nbsp;Zhiru, and <a href='https://ycunxi.github.io/cunxiyu/' target='_blank'>Cunxi&nbsp;Yu</a><br>
+    Jiaqi&nbsp;Yin<a href='https://yin-jiaqi.github.io' target='_blank'>, <a href='https://zhansong01.github.io' target='_blank'>Zhan&nbsp;Song, Chen&nbsp;Chen, <a href='https://www.csl.cornell.edu/~yc2632/' target='_blank'>Yaohui&nbsp;Cai, <a href='https://www.csl.cornell.edu/~zhiruz/' target='_blank'>Zhang&nbsp;Zhiru, and <a href='https://ycunxi.github.io/cunxiyu/' target='_blank'>Cunxi&nbsp;Yu</a><br>
     ICCAD 2025  <br>
     
 
@@ -133,7 +133,7 @@ I am a third-year Ph.D. candidate at Hong Kong University of Science and Technol
 </td>
 <td>
     <em><a href='https://arxiv.org/abs/2504.05577' target='_blank'>BoolE: Exact Symbolic Reasoning via Boolean Equality Saturation</a> </em> <br>
-    <a href='https://yin-jiaqi.github.io' target='_blank'>Jiaqi&nbsp;Yin, <a href='https://zhansong01.github.io' target='_blank'>Zhan&nbsp;Song, Chen&nbsp;Chen, Qihao&nbsp;Hu, and <a href='https://ycunxi.github.io/cunxiyu/' target='_blank'>Cunxi&nbsp;Yu</a><br>
+    Jiaqi&nbsp;Yin<a href='https://yin-jiaqi.github.io' target='_blank'>, <a href='https://zhansong01.github.io' target='_blank'>Zhan&nbsp;Song, Chen&nbsp;Chen, Qihao&nbsp;Hu, and <a href='https://ycunxi.github.io/cunxiyu/' target='_blank'>Cunxi&nbsp;Yu</a><br>
     DAC 2025  <br>
     
 </td>
