@@ -99,7 +99,7 @@ If you are interested in my research, feel free to reach out for a discussion or
 </td>
 <td>
     <em>e-boost: Boosted E-Graph Extraction with Adaptive Heuristics and Exact Solving</em> <br>
-    <a href="https://yin-jiaqi.github.io" target="_blank">Jiaqi&nbsp;Yin, Zhan&nbsp;Song, Chen&nbsp;Chen, Yaohui&nbsp;Cai, Zhang&nbsp;Zhiru, and <a href='https://ycunxi.github.io/cunxiyu/' target='_blank'>Cunxi&nbsp;Yu</a><br>
+    Jiaqi&nbsp;Yin <a href='https://yin-jiaqi.github.io' target='_blank'>, Zhan&nbsp;Song, Chen&nbsp;Chen, Yaohui&nbsp;Cai, Zhang&nbsp;Zhiru, and <a href='https://ycunxi.github.io/cunxiyu/' target='_blank'>Cunxi&nbsp;Yu</a><br>
     ICCAD 2025  <br>
     
 </td>
