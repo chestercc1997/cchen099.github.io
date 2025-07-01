@@ -98,8 +98,7 @@ I am a third-year Ph.D. candidate at Hong Kong University of Science and Technol
     <a href='https://yin-jiaqi.github.io' target='_blank'>Jiaqi&nbsp;Yin, <a href='https://zhansong01.github.io' target='_blank'>Zhan&nbsp;Song, Chen&nbsp;Chen, <a href='https://www.csl.cornell.edu/~yc2632/' target='_blank'>Yaohui&nbsp;Cai, <a href='https://www.csl.cornell.edu/~zhiruz/' target='_blank'>Zhang&nbsp;Zhiru, and <a href='https://ycunxi.github.io/cunxiyu/' target='_blank'>Cunxi&nbsp;Yu</a><br>
     ICCAD 2025  <br>
     
-</td>
-</tr>
+
 
 
 <tr id="tr-IWLS25-REVEAL" >
