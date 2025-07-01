@@ -1,6 +1,6 @@
 <p align='justify'>
-I am a third-year Ph.D. candidate at Hong Kong University of Science and Technology (Guangzhou) (HKUST(GZ)), advised by <a href="https://hongcezh.people.ust.hk" target="_blank">Prof. Hongce Zhang</a>, and a visiting scholar at the University of Maryland, College Park, where I collaborate closely with Prof. Cunxi Yu.
-</p><br>
+I am a third-year Ph.D. candidate at Hong Kong University of Science and Technology (Guangzhou) (HKUST(GZ)), advised by <a href="https://hongcezh.people.ust.hk" target="_blank">Prof. Hongce Zhang</a>. I am also a visiting scholar at the University of Maryland, College Park, where I work closely with <a href="https://ycunxi.github.io/cunxiyu/" target="_blank">Prof. Cunxi Yu</a>.
+</p>
 <h3>Research Interests:</h3>
 <ul>
   <li>Logic Synthesis and Technology Mapping
@@ -9,9 +9,6 @@ I am a third-year Ph.D. candidate at Hong Kong University of Science and Technol
   <li>Formal Verification Using Algebraic Methods </li>
   <li>Graph Learning in Electronic Design Automation </li>
 </ul>
-<p align='justify'>
-If you are interested in my research, feel free to reach out for a discussion or potential collaboration!
-</p>
 
 
 ## <i class="fa fa-chevron-right"></i> Education
@@ -79,9 +76,35 @@ If you are interested in my research, feel free to reach out for a discussion or
 <h2>2025</h2>
 <table class="table table-hover">
 
-<tr id="tr-IWLS25-REVEAL" >
+<tr id="tr-ICCAD25-CRISTAL" >
 <td align='right'>
 1.
+</td>
+<td>
+    <em>Revisit Choice Network for Synthesis and Technology Mapping</em> <br>
+    Chen&nbsp;Chen, Jiaqi&nbsp;Yin, and <a href='https://ycunxi.github.io/cunxiyu/' target='_blank'>Cunxi&nbsp;Yu</a><br>
+    ICCAD 2025  <br>
+    
+</td>
+</tr>
+
+
+<tr id="tr-ICCAD25-Eboost" >
+<td align='right'>
+2.
+</td>
+<td>
+    <em>e-boost: Boosted E-Graph Extraction with Adaptive Heuristics and Exact Solving</em> <br>
+    Jiaqi&nbsp;Yin, Zhan&nbsp;Song, Chen&nbsp;Chen, Yaohui&nbsp;Cai, Zhang&nbsp;Zhiru, and <a href='https://ycunxi.github.io/cunxiyu/' target='_blank'>Cunxi&nbsp;Yu</a><br>
+    ICCAD 2025  <br>
+    
+</td>
+</tr>
+
+
+<tr id="tr-IWLS25-REVEAL" >
+<td align='right'>
+3.
 </td>
 <td>
     <em>ReVEAL: Reverse Engineering of Multiplier Architectures via Graph Learning for Computer Algebra Verification</em> <br>
@@ -94,7 +117,7 @@ If you are interested in my research, feel free to reach out for a discussion or
 
 <tr id="tr-DAC25-E-morphic" >
 <td align='right'>
-2.
+4.
 </td>
 <td>
     <em><a href='https://arxiv.org/abs/2504.11574' target='_blank'>E-morphic: Scalable Equality Saturation for Structural Exploration in Logic Synthesis</a> </em> <br>
@@ -107,12 +130,12 @@ If you are interested in my research, feel free to reach out for a discussion or
 
 <tr id="tr-DAC25-BOOLE" >
 <td align='right'>
-3.
+5.
 </td>
 <td>
     <em><a href='https://arxiv.org/abs/2504.05577' target='_blank'>BoolE: Exact Symbolic Reasoning via Boolean Equality Saturation</a> </em> <br>
     Jiaqi&nbsp;Yin, Zhan&nbsp;Song, Chen&nbsp;Chen, Qihao&nbsp;Hu, and <a href='https://ycunxi.github.io/cunxiyu/' target='_blank'>Cunxi&nbsp;Yu</a><br>
-    DAC 2025 (Best Paper Nomination) <br>
+    DAC 2025  <br>
     
 </td>
 </tr>
@@ -123,7 +146,7 @@ If you are interested in my research, feel free to reach out for a discussion or
 
 <tr id="tr-DAC24-E-Syn" >
 <td align='right'>
-4.
+6.
 </td>
 <td>
     <em><a href='https://doi.org/10.1145/3649329.3656246' target='_blank'>E-Syn: E-Graph Rewriting with Technology-Aware Cost Functions for Logic Synthesis</a> </em> <br>
